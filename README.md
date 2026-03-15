@@ -1,5 +1,5 @@
 # 👨‍💻 Henrique Martins
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor Front-End`**
 
 Me chamo Henriuqe Martins sou natural de Belém do Pará mas atualmente moro no Rio Grande do Sul, estou cursando Analise e Desenvolvimento de Sofware.
 

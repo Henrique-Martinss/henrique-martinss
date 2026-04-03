@@ -19,7 +19,7 @@
 
 
 
-🚀 Sobre mim
+### 🚀 Sobre mim
 
 •
 🔭 Atualmente trabalhando em projetos Front-End para construir meu portfólio
@@ -33,7 +33,7 @@
 •
 💡 Curiosidade: Gosto de transformar problemas complexos em interfaces simples e intuitivas
 
-💻 Tecnologias e Ferramentas
+### 💻 Tecnologias e Ferramentas
 
 <div align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
@@ -58,7 +58,7 @@
 
 
 
-📊 Estatísticas do GitHub
+### 📊 Estatísticas do GitHub
 
 <div align="center">
 <img src="https://github-stats-extended.vercel.app/api?username=Henrique-Martinss&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true&bg_color=0D1117&title_color=7aa2f7&icon_color=7aa2f7&text_color=c0caf5" height="190" alt="Estatísticas do GitHub" />

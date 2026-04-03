@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/github/followers/Henrique-Martinss?style=for-the-badge&label=Follows&color=ff861a&labelColor=545353&logo=github&logoColor=white" alt="GitHub Followers" />
   </a>
   <a href="https://www.linkedin.com/in/henrique-martins0493">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=%F0%9F%94%97" alt="LinkedIn" />
   </a>
 </div>   
 
